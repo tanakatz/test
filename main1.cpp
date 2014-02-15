@@ -8,6 +8,8 @@
 using namespace std;
 int main()
 {
+
+
 	cout<<"fuck the worldcpp"<<endl;
 	//to change
 	return 0;
